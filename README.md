@@ -5,6 +5,8 @@
 
 The Power BI dashboard provides a **360-degree view** of call center operations, focusing on key performance indicators (KPIs) such as **total calls, resolution rates, agent performance, customer satisfaction, and topic-wise analysis**. It helps in identifying areas of improvement and optimizing call center efficiency.
 
+[View Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiMTgzMTdkMTUtN2YwMC00Y2NhLThmNzEtNmY4ODk1OTljZTc2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 **Data Collection:**
 
 As part of my virtual internship with PwC Switzerland, I was provided with a dataset to complete this project. The dataset consists of 10 columns and 5001 rows, including details such as Call ID, Agent, Date, Time, Topic, Answered (Y/N), Resolved, Speed of Answer, Average Talk Duration, and Satisfaction Rating.
